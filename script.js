@@ -90,7 +90,7 @@ const perguntas = [
     correta: 1
   }
 ];
-  // Pega a DIV onde sera inserida as perguntas e respostas do quisz
+  // Pega a DIV onde sera inserida as perguntas e respostas do quiz
   const quiz = document.querySelector('#quiz')
   // Pega o template no HTMLS
   const template = document.querySelector('template')
