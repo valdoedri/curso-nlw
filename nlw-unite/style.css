@@ -133,3 +133,10 @@ tbody td button {
 tbody td button:hover {
     text-decoration: underline;
 }
+
+footer {
+    text-align: center;
+    font: 700 12px/140% 'Arial';
+    color: #e1e1e6;
+    padding-bottom: 24px;
+}
